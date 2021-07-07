@@ -7,7 +7,8 @@ https://challenge.datafactory-intermarche.fr/fr/challenge/1/details#tab_ranking
 Prédiction des volumes de ventes des produits de grande consommation  Ce challenge consiste à fournir un modèle prédictif permettant d’estimer les volumes de ventes journaliers réalisés par différents points de vente pour divers produits de grande consommation (hors produits frais ou à poids variable).
 
 ## Approche :
-Après plusieurs test j'ai préféré m'orienter vers le modèle "LGBM : Light Gradient Boosting Machine" - Regressor.
+Après plusieurs tests j'ai préféré m'orienter vers le modèle "LGBM : Light Gradient Boosting Machine" - Regressor. qui était plus rapide à exécuter que le XGBOOST pour environ les mêmes résultats.
+
 ![Challenge Intermarche_1](https://user-images.githubusercontent.com/64421607/124708069-fdba4c80-def9-11eb-90eb-a4974aa15014.png)
 ![Challenge Intermarche](https://user-images.githubusercontent.com/64421607/124708077-001ca680-defa-11eb-9835-b004f19475f5.png)
 
