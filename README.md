@@ -19,7 +19,7 @@ J'ai éssayé d'échantilloner le dataset pour exploter un maximum de données s
 ## Conclusion :
 Ceci était ma première compétition officielle, ainsi que ma première approche d'un problème de Time series.
 Etant débutant sur les sujets IA/Data Science je me suis mis comme objectif de produire au moins une solution et de l'améliorer jusqu'à la deadline.
-Même si je pense que ma démarche n'est pas forcément correct j'ai prisénormément de plaisir à réaliser cette compétion.
+Même si je pense que ma démarche n'est pas forcément correct j'ai pris énormément de plaisir à réaliser cette compétion.
 
 ![Capture Intermarche](https://user-images.githubusercontent.com/64421607/124708406-86d18380-defa-11eb-949b-0430040a8f2c.JPG)
 
