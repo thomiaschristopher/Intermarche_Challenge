@@ -23,5 +23,5 @@ Même si je pense que ma démarche n'est pas forcément correct j'ai pris énorm
 
 ![Capture Intermarche](https://user-images.githubusercontent.com/64421607/124708406-86d18380-defa-11eb-949b-0430040a8f2c.JPG)
 
-
+If you get some issues with the display of the notebook on GitHub you can tchek the file on it : https://nbviewer.jupyter.org/github/thomiaschristopher/Intermarche_Challenge/blob/main/challengeintermarche.ipynb
 
